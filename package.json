@@ -30,7 +30,9 @@
     "@types/crypto-js": "^4.1.1",
     "@types/markdown-it": "^12.2.3",
     "@types/node": "^18.15.11",
+    "cypress": "^12.14.0",
     "nuxt": "3.3.3",
-    "nuxt-icon": "^0.3.3"
+    "nuxt-icon": "^0.3.3",
+    "typescript": "^5.1.3"
   }
 }
