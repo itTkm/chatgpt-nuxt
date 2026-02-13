@@ -28,7 +28,7 @@
     "dexie": "^3.2.4",
     "highlight.js": "^11.8.0",
     "hotkeys-js": "^3.10.3",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "moment": "^2.29.4",
     "openai": "^3.3.0"
   }
